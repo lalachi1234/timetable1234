@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeTable</string>
+
+
+    <string name="changeLang">Fluid Algorithms est une application de calendrier avec de nombreuses fonctionnalités
+il a des onglets comme des événements où vous pouvez définir des événements comme une fête danniversaire ou un mariage.
+Contacts, vous pouvez ajouter tous les détails de vos amis et votre famille et une barre des tâches où vous pouvez mettre les choses que vous devez faire.
+il y a un tas de liens</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="hello">Bonjour</string>
+
+
+</resources>

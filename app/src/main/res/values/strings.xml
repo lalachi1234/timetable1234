@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <!-- Fragments strings -->
+    <string name="monday" translatable="false">Monday</string>
+    <string name="tuesday" translatable="false">Tuesday</string>
+    <string name="wednesday" translatable="false">Wednesday</string>
+    <string name="thursday" translatable="false">Thursday</string>
+    <string name="friday" translatable="false">Friday</string>
+    <string name="saturday" translatable="false">Saturday</string>
+    <string name="sunday" translatable="false">Sunday</string>
+    <string name="select_snackbar" translatable="false">Please, select one item.</string>
+    <string name="selected" translatable="false">Selected</string>
+
+    <!-- Main Activity strings -->
+    <string name="timetable" translatable="false">TimeTable</string>
+    <string name="ulan_nurymov_gmail_com" translatable="false">Email@Email.com</string>
+    <string name="seven_days_of_the_week" translatable="false">7 Days of the Week</string>
+    <string name="subject" translatable="false">Subject</string>
+    <string name="field_error" translatable="false">field can not be empty!</string>
+    <string name="time_error" translatable="false">Time field can not be empty!</string>
+    <string name="week" translatable="false">Week</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="school_website" translatable="false">School website</string>
+    <string name="school_website_snackbar" translatable="false">Please, set URL of your school website in settings.</string>
+
+    <string name="add_subject" translatable="false">Add Timetable</string>
+    <string name="edit_subject" translatable="false">Edit Timetable</string>
+    <string name="teacher" translatable="false">Contact</string>
+    <string name="room" translatable="false">Room</string>
+    <string name="time" translatable="false">Time</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="time_to_dialog" translatable="false">To:</string>
+    <string name="time_from_dialog" translatable="false">From:</string>
+    <string name="subject_dialog" translatable="false">Subject:</string>
+    <string name="teacher_dialog" translatable="false">Teacher:</string>
+    <string name="room_dialog" translatable="false">Room:</string>
+    <string name="select_time" translatable="false">Select time</string>
+    <string name="select_color" translatable="false">Select color</string>
+    <string name="choose_time" translatable="false">Choose time</string>
+    <string name="choose_date" translatable="false">Choose date</string>
+    <string name="choose_color" translatable="false">Choose color</string>
+
+    <!-- Homeworks Activity strings -->
+    <string name="title_activity_homeworks" translatable="false">HomeworksActivity</string>
+    <string name="homeworks" translatable="false">Task</string>
+    <string name="select_date" translatable="false">Select date</string>
+    <string name="deadline_dialog" translatable="false">Deadline:</string>
+    <string name="deadline" translatable="false">Deadline</string>
+    <string name="description_dialog" translatable="false">Description:</string>
+    <string name="desctiption" translatable="false">Desctiption</string>
+    <string name="date_error" translatable="false">Date field can not be empty!</string>
+    <string name="edit_homework" translatable="false">Edit Task</string>
+    <string name="add_homework" translatable="false">Add Task</string>
+    <string name="deadline_snackbar" translatable="false">"Deadline field can not be empty!</string>
+    <string name="date" translatable="false">Date</string>
+
+    <!-- Notes Activity strings -->
+    <string name="notes" translatable="false">Notes</string>
+    <string name="title_dialog" translatable="false">Title:</string>
+    <string name="add_note" translatable="false">Add note</string>
+    <string name="edit_note" translatable="false">Edit note</string>
+    <string name="title_error" translatable="false">Title field can not be empty!</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="saved" translatable="false">Saved</string>
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers" translatable="false">Contacts</string>
+    <string name="add_teacher" translatable="false">Add Contact</string>
+    <string name="edit_teacher" translatable="false">Edit Contact</string>
+    <string name="name_dialog" translatable="false">Name:</string>
+    <string name="post_dialog" translatable="false">Post:</string>
+    <string name="phonenumber_dialog" translatable="false">Phone:</string>
+    <string name="email_dialog" translatable="false">Email:</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="phone_number" translatable="false">Phone number</string>
+    <string name="post" translatable="false">Post</string>
+    <string name="email" translatable="false">Email</string>
+
+    <!-- Exams Activity strings -->
+    <string name="title_activity_exam" translatable="false">ExamActivity</string>
+    <string name="exams" translatable="false">Events</string>
+    <string name="add_exam" translatable="false">Add Events</string>
+    <string name="date_dialog" translatable="false">Date:</string>
+    <string name="time_dialog" translatable="false">Time:</string>
+
+    <!-- Settings Activity strings -->
+    <string name="sevendays_setting" translatable="false">Enable 7 Days of the Week</string>
+    <string name="school_website_setting" translatable="false">Change school website</string>
+    <string name="school_website_setting_summary" translatable="false">Change URL of your school website</string>
+
+    <!-- Notification -->
+    <string name="notification_title" translatable="false">Today\'s lessons</string>
+    <string name="do_not_have_lessons" translatable="false">You do not have lessons!</string>
+    <string name="phone" translatable="false">Phone</string>
+    <string name="skype" translatable="false">Skype</string>
+
+
+    <string name="changeLang">Fluid Algorithms is a timetable app with many features it got tabs like events where you can set events like a birthday party or wedding. Contacts you can add all your friends and family details and a task bar where you can put things you need to do. there is a bunch of links.</string>
+    <string name="hello">HELLO</string>
+    <string name="welcome">WELCOME</string>
+    <string name="change">Change Language</string>
+
+</resources>
